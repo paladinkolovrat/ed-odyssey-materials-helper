@@ -133,10 +133,10 @@ modifier.horizons.name.optimal_mass,Optimal Mass,Optimal Mass,Optimale Masse,Mas
 modifier.horizons.name.optimal_multiplier,Optimal Multiplier,Optimal Multiplier,Optimaler Multiplikator,Multiplicador óptimo,Multiplicateur optimal,Multiplicador ideal,Оптимальный усилитель
 modifier.horizons.name.part_of_damage_through_shields,Part Of Damage Through Shields,Part Of Damage Through Shields,Teil des Schadens durch Schilde,Parte del daño atraviesa los escudos,Une partie des dégâts par des boucliers,Parte dos danos através de escudos,Часть урона проходит сквозь щиты
 modifier.horizons.name.pitch_speed,Pitch Speed,Pitch Speed,,Cabeceo,,Velocidade de Arfagem,Скорость тангажа
-modifier.horizons.name.power_boost,Power Boost,Power Boost,,,,Incremento de Energia,"Увеличение мощности "
+modifier.horizons.name.power_boost,Power Boost,Power Boost,,,,Incremento de Energia,"Увеличение мощности"
 modifier.horizons.name.power_capacity,Power Capacity,Power Capacity,Leistungskapazität,Capacidad de energía,La capacité de puissance,Capacidade de Energia,Общий ресурс
 modifier.horizons.name.power_draw,Power Draw,Power Draw,Krafte,Consumo de energía,Tirage au sort,Consumo de Energia,Потребление энергии
-modifier.horizons.name.range,Range,Range,Bereich,Distancia,Varier,Alcance,Дальность
+modifier.horizons.name.range,Range,Range,Bereich,Distancia,Varier,Alcance,Дальностьа
 modifier.horizons.name.rate_of_fire,Rate Of Fire,Rate Of Fire,Feuerrate,Cadencia de fuego,Taux de feu,Razão de Tiro,Скорость стрельбы
 modifier.horizons.name.refill,Refill,Refill,Nachfüllung,Rellenar,Recharge,Reabastecimento,Пополнение
 modifier.horizons.name.regen_rate,Regen Rate,Regen Rate,Regenrate,Tasa de regeneración,Taux de régénération,Taxa de regeneração,Скорость восстановления при пробое
@@ -204,8 +204,8 @@ modifier.horizons.name.vehicle_slots,Vehicle Slots,Vehicle Slots,,Huecos de Veh�
 modifier.horizons.name.weapons_capacity,Weapons Capacity,Weapons Capacity,Waffenkapazität,Capacidad de armas,Capacité d’armes,Capacidade de Armas,Орудийный ресурс
 modifier.horizons.name.weapons_recharge,Weapons Recharge,Weapons Recharge,Waffenaufladung,Recarga de armas,Recharge des armes,Recarrega de Armas,Перезарядка оружия
 modifier.horizons.name.wing_damage_reduction,Wing Damage Reduction,Wing Damage Reduction,,Reducción de Daño del Escuadrón,,Redução de Dano de Ala,Снижение урона по союзнику в крыле
-modifier.horizons.name.wing_max_duration,Wing Max Duration,Wing Max Duration,,Duración Máxima del Escuadrón,,Duração Máxima de Ala,
-modifier.horizons.name.wing_min_duration,Wing Min Duration,Wing Min Duration,,Duración Minima del Escuadron,,Duração Mínima de Ala,
+modifier.horizons.name.wing_max_duration,Wing Max Duration,Wing Max Duration,,Duración Máxima del Escuadrón,,Duração Máxima de Ala,Максимальное время крыла
+modifier.horizons.name.wing_min_duration,Wing Min Duration,Wing Min Duration,,Duración Minima del Escuadron,,Duração Mínima de Ala,Минимальное время крыла
 modifier.horizons.name.wing_shield_regeneration_increased,Wing Shield Regeneration Increased,Wing Shield Regeneration Increased,Die Regeneration der Flügelschildsteigerung nahm zu,Aumenta la Regeneración de Escudo del Escuadrón,La régénération du bouclier des ailes a augmenté,Regeneração de Escudo de Ala Aumentada,Регенерация щита союзника в крыле увеличилась
 modifier.horizons.name.yaw_speed,Yaw Speed,Yaw Speed,,Velocidad de Guiñada,,Velocidade de Guinada,Скорость рыскания
 modifier.horizons.name.minimum_multiplier_speed,Minimum Multiplier Speed,Minimum Multiplier Speed,,Multiplicador Mínimo de Velocidad,,Multiplicador de Velocidade Mínimo,Минимальный множитель скорости
@@ -225,4 +225,4 @@ modifier.horizons.name.overcharge_max_acceleration_rate,Overcharge Max Accelerat
 modifier.horizons.name.overcharge_heat_generation_rate,Overcharge Heat Generation Rate,,,Ratio de Generación de calor de la Sobrecarga,,Razão de Geração de Calor Sobrecarregado,Повышение скорости нагрева
 modifier.horizons.name.overcharge_control_interference,Overcharge Control Interference,,,Interferencia de control de la Sobrecarga,,Interferência de Controle de Sobrecarga,Влияние перегрузки на управление
 modifier.horizons.name.listed_power_draw,Listed Power Draw,Listed Power Draw,,Consumo de Energía Listado,,Consumo de Energia Nominal,Заявленное потребление мощности
-modifier.horizons.name.boost_interval,Boost Interval,,,,,,
+modifier.horizons.name.boost_interval,Boost Interval,,,,,,Интервал ускорения
